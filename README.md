@@ -13,4 +13,4 @@
 |:-------|:------:|-------:|
 |  Nguyễn Phúc Khang An  |  19520370  |  19520370@gm.uit.edu.vn  |
 |  Nguyễn Bách Duy  |  19521424  |   19521424@gm.uit.edu.vn  |
-|  Cao Chí Nhân  |  19520794  |   19520794@gm.uit.edu.vn  |
+|  Cao Chí Nhân  |  19520794 |   19520794@gm.uit.edu.vn  |
